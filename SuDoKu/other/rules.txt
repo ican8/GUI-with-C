@@ -1,0 +1,16 @@
+Sudoku :-
+
+Sudoku is played on a grid of 9 x 9 spaces. Within the rows and columns are 9 “squares” (made up of 3 x 3 spaces).
+Each row, column and square (9 spaces each) needs to be filled out with the numbers 1-9, without repeating any 
+numbers within the row, column or square. Each Sudoku grid comes with a few spaces already filled in; the more
+spaces filled in,theeasier the game – the more difficult Sudoku puzzles have very few spaces that are already 
+filled in.
+
+
+
+
+Don’t Guess:-
+
+Sudoku is a game of logic and reasoning, so you shouldn’t have to guess. If you don’t know what number to put in a 
+certain space, keep scanning the other areas of the grid until you seen an opportunity to place a number. But don’t
+try to “force” anything – Sudoku rewards patience, insights, and recognition of patterns, not blind luck or guessing.
